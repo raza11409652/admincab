@@ -52,7 +52,6 @@ class DispatcherPanel extends React.Component {
                     listContent: 'dispatch-assign',
                     trip: trip
                 });
-
             } else {
                 this.setState({
                     listContent: 'dispatch-map',
